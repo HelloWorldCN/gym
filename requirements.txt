@@ -3,3 +3,6 @@ numpy
 pytest
 pytest-timeout
 pytest-repeat
+gym
+torch
+matplotlib
