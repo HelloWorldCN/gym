@@ -68,6 +68,8 @@ python3 -m pytest alphartc_gym
 
 ###
 * 测试gym的程序
-  main.py来自于官方example，为了使用gpu进行了小的修改
+  - main.py来自于官方example，为了使用gpu进行了小的修改
+  - 接下来准备对Bob的代码进行测试
+
 Thanks [SoonyangZhang](https://github.com/SoonyangZhang) provides the inspiration for the gym
 
