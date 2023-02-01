@@ -66,5 +66,8 @@ python3 -m pytest alphartc_gym
   
   - [ns-app/scratch/webrtc_test/webrtc-static.cc](ns-app/scratch/webrtc_test/webrtc-static.cc) ns3 app的入口
 
+###
+* 测试gym的程序
+  main.py来自于官方example，为了使用gpu进行了小的修改
 Thanks [SoonyangZhang](https://github.com/SoonyangZhang) provides the inspiration for the gym
 
